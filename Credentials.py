@@ -1,6 +1,6 @@
 
 
-##Credentials
+
 
 naukri_login_id = "polanikhilkumar95@gmail.com"
 naukri_password = "htccth@123"
